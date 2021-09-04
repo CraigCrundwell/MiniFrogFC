@@ -1,8 +1,12 @@
 # MiniFrogFC
-A Flight Controller For Brushed Motor Quadcopters
+A Flight Controller For Brushed Motor Quadcopters <br /> <br />
+
+This is the v1.0 layout which still needs some refinement.
+![Bottom](Images/Bottom.png)
+![Top](Images/Top.png)
 
 ## About
-This is a personal project to develop a custom PCB flight controller designed in Altium.
+This is a personal project to develop a custom PCB flight controller designed in Altium. The size is currently 27mm x 18mm which is smaller than many commercially available options :)
 
 ## Major Components
 
@@ -11,13 +15,13 @@ This is a personal project to develop a custom PCB flight controller designed in
 **MPU-6050:** Gyroscope and accelerometer IC <br />
 
 ## FrSky Compatability
-The built in FrSky compatable receiver is based off the [uSky](https://github.com/fishpepper/uSKY) receiver design 
+The built in FrSky compatible receiver is based off the [uSky](https://github.com/fishpepper/uSKY) receiver design 
 running [OpenSky](https://github.com/fishpepper/OpenSky) firmware developed by [fishpepper.](https://github.com/fishpepper) <br />
 Thanks to fishpepper for publishing the design under an opensource license! 
 
-## BetaFlight Compatability
+## BetaFlight Compatibility
 
-This flight controller is designed to be compatable with a popular open source FC software program called [BetaFlight.](https://github.com/betaflight) 
+This flight controller is designed to be compatible with a popular open source FC software program called [BetaFlight.](https://github.com/betaflight) 
 I have developed a new target for this custom flight controller here: [MiniFrogFC_Betaflight](https://github.com/CraigCrundwell/MiniFrogFC_Betaflight) <br />
 Thanks to the BetaFlight team for their incredible work! <br />
 
@@ -29,6 +33,6 @@ Other flight controllers have creative names much better than my original "Brush
 This name is one of a few I thought of in 5 minutes that didn't return strange results when entered on Google. <br />
 Meh, we are just going to roll with it. 
 
-## Progress
+## Versions
 
-As of September 2021, subsystems of the design have been tested but the full system has not been fully tested yet.
+The V1.0 board layout is near completion and will be tested soon. The receiver subsystem has been tested on another design.
