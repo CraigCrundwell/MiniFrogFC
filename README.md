@@ -35,4 +35,4 @@ Meh, we are just going to roll with it.
 
 ## Versions
 
-The V1.0 board layout is near completion and will be tested soon. The receiver subsystem has been tested on another design.
+The V1.0 board layout is near completion and will be tested soon. Everything except for the IMU has been tested on a V0.0 version.
