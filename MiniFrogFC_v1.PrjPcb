@@ -190,25 +190,80 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONINKCPV
 
-[Document10]
-DocumentPath=MiniFrogFC_v1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MiniFrogFC_v1\Design Rule Check - MiniFrogFC_v1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MiniFrogFC_v1\NC Drill\MiniFrogFC_v1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for MiniFrogFC_v1\NC Drill\MiniFrogFC_v1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for MiniFrogFC_v1\NC Drill\MiniFrogFC_v1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for MiniFrogFC_v1\NC Drill\MiniFrogFC_v1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for MiniFrogFC_v1\Gerber\MiniFrogFC_v1.RUL
 DItemRevisionGUID=
 
 [Configuration1]
